@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Mitsutaka-Kusakabe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning AWS
+Frictionless living for everyone.
 
+Built with Laziness, Impatience and Hubris —
+and delivered with a little Luck.
+There's more than one way to do it. (TMTOWTDI)
